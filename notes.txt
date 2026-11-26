@@ -1,3 +1,0 @@
-Python is a programing language, 
-used for build something new.
-Learning python helps to build your own ai.
